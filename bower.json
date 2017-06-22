@@ -1,0 +1,21 @@
+{
+  "name": "imooc",
+  "description": "imooc建站实例",
+  "main": "index.js",
+  "authors": [
+    "qrj"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
